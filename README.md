@@ -32,11 +32,8 @@
     - Blender
     - Maya
     - 3DMax
+    - Sustanpinter
     - photoshop ,Premier , encoder, audition
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 6
 
 <!--
 **jpetisgreen/jpetisgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
