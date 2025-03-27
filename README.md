@@ -1,5 +1,5 @@
 # Bienvenidos 👋
-![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaGvnZu_mL1u5_YWkU1_hdGxOpL6xJuDHXA&s)
+![Maya](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaGvnZu_mL1u5_YWkU1_hdGxOpL6xJuDHXA&s)
 
 
 
