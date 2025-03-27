@@ -1,5 +1,5 @@
 # Bienvenidos 👋
-![Mi imagen](https://github.com/jpetisgreen/jpetisgreen/img.jpg?raw=true)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaGvnZu_mL1u5_YWkU1_hdGxOpL6xJuDHXA&s)
 
 
 
