@@ -1,5 +1,5 @@
 # Bienvenidos 👋
-[img1]: /jpetisgreen/img.jpg "Título alternativo"
+![Mi imagen](https://github.com/jpetisgreen/jpetisgreen/img.jpg?raw=true)
 
 
 
