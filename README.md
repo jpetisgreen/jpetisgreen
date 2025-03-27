@@ -1,21 +1,38 @@
-# Bienvenidos 👋
-![Maya](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaGvnZu_mL1u5_YWkU1_hdGxOpL6xJuDHXA&s)
-
-![Blender](https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png)
+# Bienvenidos 👋🎈
 
 
+![Blender](https://i.pinimg.com/280x280_RS/4b/82/9b/4b829be39a2166819dc7d3bdf368c375.jpg)
 
 
 
-# Encabezado 1
-## Encabezado 2
 
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 6
 
-# ** Jaime G.Petisco  **
+
+
+
+
+
+
+
+
+
+
+# _Jaime_<span style="color: red;">G.Petisco</span>
 ## Técnico Superior en animaciones 3D, Juegos y Entornos Interactivos
+`soy estudiante de 1 año`
+
+1. **Áreas de interés**
+  - Desarrollos 
+  - FX
+  - Animación
+  - Modelado y esculpido
+  - 
+
+2.  **Tecnologias y sofware**
+    - Blender
+    - Maya
+    - 3DMax
+    - photoshop ,Premier , encoder, audition
 ### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
