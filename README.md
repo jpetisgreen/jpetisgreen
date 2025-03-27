@@ -1,8 +1,10 @@
 # Bienvenidos 👋
 ![Maya](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaGvnZu_mL1u5_YWkU1_hdGxOpL6xJuDHXA&s)
-![blender](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpKrZhv4daK-UBk6s91ow5sE5dZCvoX6xfkntwjWHmRhW8nLjl2owRW8a0mevXrChFR5Wwrhj-HCBlHWlQJcebKI5f_SmPn24cVz_BVLABElkLJEgjvrkon338bCfNtOASiey0qmEC1gU/s1600/BlenderDesktopLogo.png)
 
-![Maya]
+![Blender](https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png)
+
+
+
 
 
 ## Encabezado 2
