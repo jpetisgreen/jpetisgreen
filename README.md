@@ -1,14 +1,18 @@
 # Bienvenidos 👋
 ![Maya](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjaGvnZu_mL1u5_YWkU1_hdGxOpL6xJuDHXA&s)
-`Esto es una línea de código`
-
+`Esto es una línea de código`# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
 
 <!--
 **jpetisgreen/jpetisgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on proyectos multimedia
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
