@@ -7,10 +7,16 @@
 
 
 
+# Encabezado 1
+## Encabezado 2
 
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
 
-##Jaime G.Petisco
-###Técnico Superior en animaciones 3D, Juegos y Entornos Interactivos
+# ** Jaime G.Petisco  **
+## Técnico Superior en animaciones 3D, Juegos y Entornos Interactivos
+### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
